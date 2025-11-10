@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+  <defs>
+    <linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00793B"/>
+      <stop offset="100%" stop-color="#1A237E"/>
+    </linearGradient>
+  </defs>
+  <rect width="160" height="160" rx="24" fill="#ffffff"/>
+  <path d="M30 110c0-35 25-65 60-70l10-10 10 10c35 5 60 35 60 70" fill="none" stroke="#1A237E" stroke-width="6" stroke-linecap="round"/>
+  <path d="M40 110c0-28 20-52 48-56l12-12 12 12c28 4 48 28 48 56" fill="none" stroke="#00793B" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="80" cy="100" r="34" fill="url(#a)"/>
+  <text x="80" y="107" font-family="Poppins,Segoe UI,Arial,sans-serif" font-size="38" fill="#ffffff" font-weight="700" text-anchor="middle">AIPS</text>
+</svg>
